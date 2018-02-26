@@ -57,7 +57,7 @@ Crawler for [Detik News](https://news.detik.com). Get all news title from the we
 
 ##### Params
 
-* date [`dd/mm/yyyy`]
+* date [`mm/dd/yyyy`]
 
 Date when news will be crawled, default to `02/26/2018`
 
